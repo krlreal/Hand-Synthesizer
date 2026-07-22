@@ -1,6 +1,5 @@
 import numpy as np
 import pygame
-import time
 
 def sine_wave(
     freq: int = 440, 
